@@ -1,0 +1,28 @@
+body
+{
+    border: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #D2E3C8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#verticalbuttons
+{
+    display: flex;
+    flex-direction: column;
+}
+button:hover
+{
+    background-color: blue;
+}
+#carCanvas
+{
+    background-color: red;
+    background-color:#4F6F52;
+}
+#networkCanvas
+{
+    background-color: black;
+}
